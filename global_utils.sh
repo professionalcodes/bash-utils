@@ -6,9 +6,14 @@ function enw {
     emacs -nw $filename
 }
 
-#start 
+# start ruby mine
 function srb {
     bash ~/Desktop/RubyMine-2017.1.1/bin/rubymine.sh
+}
+
+# start android studio
+function sas {
+	bash ~/Desktop/android-studio/bin/studio.sh
 }
 
 
